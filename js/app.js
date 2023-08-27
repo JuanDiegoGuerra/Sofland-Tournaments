@@ -16,7 +16,7 @@ const FeaturedGames = [
     id: 'game1',
     name: 'Dota 2',
     category: 'MOBA',
-    description: 'Dota 2 is a multiplayer online battle arena (MOBA) in where 10 people fight in 2 different teams, 5 vs 5, to destroy the enemy base. You have different roles and a variety of more than 100 heroes to pick.',
+    description: 'Dota 2 es un "multiplayer online battle arena" (MOBA) en el que 10 personas luchan en 2 equipos diferentes, 5 contra 5, para destruir la base enemiga. Tienes diferentes roles y una variedad de más de 100 héroes para elegir.',
     image: ['img/featured_games/dota2.jpg'],
   },
   {
@@ -43,14 +43,14 @@ const FeaturedGames = [
   {
     id: 'game5',
     name: 'Clash Royale',
-    category: 'RTS',
+    category: 'Tower Defense',
     description: 'Clash Royale is a real-time strategy (RTS) game that combines elements from collectible card games, tower defense and multiplayer online battle arena.',
     image: ['img/featured_games/clashroyale.jpg'],
   },
   {
     id: 'game6',
     name: 'Hearthstone',
-    category: 'DC Card Game',
+    category: 'Board Card Game',
     description: 'Hearthstone is an online digital collectible card game (DC Card Game). The game is a turn-based card game between two opponents, using constructed decks of 30 cards along with a selected hero with a unique power.',
     image: ['img/featured_games/hearthstone.jpg'],
   },
