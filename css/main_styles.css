@@ -10,13 +10,14 @@
   --orange: #ec5242;
   --lightgray: #d3d3d3;
   --white: #eaeaea;
+  --neutralgray: #dee2e6;
 }
 
 body {
   margin: 0;
   overflow-x: hidden;
   scroll-behavior: smooth;
-  background-color: var(--lightgray);
+  background-color: var(--neutralgray);
 }
 
 html {
@@ -53,6 +54,10 @@ html {
 }
 
 /* ------------------ Main Containers ------------------ */
+
+main {
+  background-color: var(--neutralgray);
+}
 
 .home-main {
   width: 90vw;
@@ -122,6 +127,14 @@ html {
   gap: 1.5vh;
 }
 
+.video_show {
+  text-align: center;
+}
+
+#versus_title {
+  font-size: 3rem;
+}
+
 .main_event-section {
   background-color: var(--gray);
   padding-bottom: 2vh;
@@ -179,7 +192,7 @@ html {
 .about-parragraf {
   border: 1px var(--gray) solid;
   border-radius: 3px;
-  background-color: var(--white);
+  background-color: var(--neutralgray);
 }
 
 .about-parragraf p {
@@ -246,7 +259,7 @@ html {
 }
 
 .flex-navbar {
-  background-color: var(--white);
+  background-color: var(--neutralgray);
   color: var(--white);
   display: flex;
   justify-content: space-around;
@@ -288,7 +301,7 @@ html {
 
 /* ------------------ FEATURED GAME CARDS  ------------------ */
 .features_games-section {
-  background-color: var(--white);
+  background-color: var(--neutralgray);
   padding-top: 3vh;
   padding-bottom: 2vh;
 }
@@ -348,9 +361,21 @@ html {
   .main_event-section {
     padding-top: 3vh;
   }
+  
+  .video_show {
+    display: none;
+  }
 
   .event-title {
     margin-bottom: 3vh;
+  }
+
+  .event-button a {
+    font-size: 0.8rem;
+  }
+
+  #versus_title {
+    font-size: 2rem;
   }
 
   .flex-navbar {
@@ -383,7 +408,7 @@ html {
     padding-top: 10px;
     bottom: 30px;
     gap: 10px;
-    background-color: var(--white);
+    background-color: var(--neutralgray);
     width: 100%;
     font-weight: 600;
     border-bottom-left-radius: 30px;
@@ -428,6 +453,10 @@ html {
 
   .menu-line {
     display: none;
+  }
+
+  #versus_title {
+    font-size: 2rem;
   }
 
   .primary-logo {
@@ -476,8 +505,13 @@ html {
     display: none;
   }
 
+  .video_show {
+    display: none;
+  }
+
   .event-button a {
     padding: 3vw;
+    font-size: 0.8rem;
   }
 
   .game-hover {
@@ -551,6 +585,7 @@ html {
   .home-section {
     padding-bottom: 15vh;
     padding-top: 15vh;
+    background-color: var(--neutralgray);
   }
 
   #home-title {
@@ -645,6 +680,7 @@ html {
     background: none;
     border-radius: 0;
     text-decoration: underline;
+    font-size: 2rem;
   }
 
   .game {
