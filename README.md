@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="img/MicroverseGamingFestLogo.png" alt="logo" width="100"  height="auto" />
+  <img src="img/softland_logo.jpg" alt="logo" width="100"  height="auto" />
   <br/>
-  <h2><b>First Capstone - Microverse Gaming Fest</b></h2>
+  <h2><b>Softland Gaming Center - Tournament Page</b></h2>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -84,7 +84,7 @@
 
 > Live Demo of "First Capstone" project using Github Pages.
 
-- Web Project: [Microverse Gaming Fest Website](https://juandiegoguerra.github.io/Capstone_Project-GamingFest_Page/)
+- Web Project: [Softland Tournaments](https://juandiegoguerra.github.io/Sofland-Tournaments/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -114,7 +114,7 @@ Clone this repository to your desired folder:
 
 - 1️⃣ Open Git Bash.
 - 2️⃣ Change the current working directory to the location where you want the cloned directory.
-- 3️⃣ Type: `git clone https://github.com/JuanDiegoGuerra/Capstone_Project-GamingFest_Page.git`
+- 3️⃣ Type: `https://github.com/JuanDiegoGuerra/Sofland-Tournaments.git`
 - 4️⃣ Press Enter to create your local clone.
 
 ### Install
@@ -212,7 +212,7 @@ VS Code and Google Chrome.
 
 > What I'm proud I've built.
 
- - I'm proud that I've built a pretty cool style for my game cards, you can find the code in this link: [Game Cards - Special Effects](https://github.com/JuanDiegoGuerra/Capstone_Project-GamingFest_Page/blob/main/css/game-img-special_effects.css).
+ - I'm proud that I've built a pretty cool style for my game cards, you can find the code in this link: [Game Cards - Special Effects](https://github.com/JuanDiegoGuerra/Sofland-Tournaments/tree/development/css).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
