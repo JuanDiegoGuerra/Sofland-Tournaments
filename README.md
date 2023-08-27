@@ -32,9 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [First_Capstone-Microverse_Gaming_Fest] <a name="about-project"></a>
+# 📖 [Softland_Gaming_Center_Tournament_Page] <a name="about-project"></a>
 
-**[First Capstone - Microverse Gaming Fest is my first responsive web page built in my Microverse journey. It is a gaming festival announcement page in where you can find all the details for that event.]** 
+**[Description COMMING SOON.]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -82,7 +82,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Live Demo of "First Capstone" project using Github Pages.
+> Live Demo of "Softland Tournament Page" project using Github Pages.
 
 - Web Project: [Softland Tournaments](https://juandiegoguerra.github.io/Sofland-Tournaments/)
 
@@ -168,9 +168,12 @@ VS Code and Google Chrome.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Juan Diego Guerra**
+👤 **Juan Diego Guerra (JD)**
 
-- GitHub: [@JuanDiegoGuerra](https://github.com/JuanDiegoGuerra)
+- GitHub: [@Juan Diego](https://github.com/JuanDiegoGuerra)
+- Twitter: [@JdxElric147](https://twitter.com/jdxelric147)
+- Steam: [JdxElric](https://steamcommunity.com/profiles/76561198047246340/)
+- LinkedIn: [Juan Diego Guerra](https://www.linkedin.com/in/juan-guerra-65076b1ba/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
